@@ -1,2 +1,2 @@
 # Componente+Vazquez
- ANGULAR Desafio #1 - Componente. Fermin Vazquez.
+ ANGULAR Desafio #1 - Fermin Vazquez.
