@@ -1,0 +1,19 @@
+h5 {
+  padding: 4%;
+  font-size: x-large;
+}
+
+.list-group {
+  margin: 0;
+  padding: 0% 4%;
+  width: 90%;
+}
+img {
+  padding: 0% 8% 0% 0%;
+  object-fit: contain;
+}
+
+a {
+  justify-content: space-around;
+  box-shadow: inset 0px 1px 26px -22px rgba(0, 0, 0, 0.51);
+}

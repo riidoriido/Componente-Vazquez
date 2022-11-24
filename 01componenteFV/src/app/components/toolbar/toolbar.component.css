@@ -1,0 +1,13 @@
+nav {
+  margin-bottom: 3%;
+  height: 5em;
+  background-color: rgb(44, 44, 44);
+}
+.navbar-brand {
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+}
+
+a:hover {
+  color: yellow;
+}

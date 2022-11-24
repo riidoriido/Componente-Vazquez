@@ -1,0 +1,45 @@
+.card {
+  box-shadow: inset 0px 1px 26px -22px rgba(0, 0, 0, 0.51);
+  border: 0px solid #000000;
+}
+
+p.card-text {
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  font-size: medium;
+}
+
+.card-title {
+  color: black !important;
+}
+
+a {
+  color: black;
+  text-emphasis: none;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+#icon {
+  width: 4.5%;
+  height: auto;
+  padding: 0% 1%;
+  opacity: 0.3;
+}
+
+.card-footer {
+  background-color: rgb(226, 223, 208);
+}
